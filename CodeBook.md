@@ -14,8 +14,8 @@ body: accelerator or Gyroscope signal risen from body motion.<br />
 Gravity: accelerator or Gyroscope signal risen from gravity.<br />
 Accelerator: accelerator signal<br />
 Gyroscope: Gyroscope signal<br />
-mean: mean value<br />
-std: standard deviation<br />
+mean: the average mean value of each variable for each activity and each subject<br />
+std: the average standard deviation of each variable for each activity and each subject<br />
 
 ##The final data
 It is a second, independent tidy data set with the average of each variable for each activity and each subject.
