@@ -9,6 +9,11 @@ describes the variables, the data, and any transformations or work that was perf
 ###run_analysis.R 
 contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
 
+###tidyData.txt
+the output of the R script as below.
+
+###run_analysis.R
+
 ##run_analysis.R does the following.
 
 1.Merges the training and the test sets to create one data set.<br />
